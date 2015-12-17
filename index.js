@@ -28,8 +28,6 @@ $(document).ready(function(){
     $("#middle").empty();
   });
   
-  
 // find all sounds of buskers licensed under 'creative commons share alike'
-
 
 });// JavaScript File
